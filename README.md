@@ -1,4 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&customColorList=21&height=120&section=header&text=Applepops&fontSize=60&animation=blink)
+
 ![KakaoTalk_20220508_003149730](https://user-images.githubusercontent.com/101245685/167261154-3f4ea27c-52e2-4e30-8f4a-3cde79714930.jpg)
+
+
+
 <!--
 **applepops/applepops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
