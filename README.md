@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&customColorList=10&height=120&section=header&text=Applepops&fontSize=60)
-
 ![KakaoTalk_20220508_003149730](https://user-images.githubusercontent.com/101245685/167261154-3f4ea27c-52e2-4e30-8f4a-3cde79714930.jpg)
 
 
