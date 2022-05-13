@@ -17,8 +17,7 @@ Hope you also look forward to it.
  <br/>
 
 
-![KakaoTalk_20220508_003149730](https://user-images.githubusercontent.com/101245685/167261154-3f4ea27c-52e2-4e30-8f4a-3cde79714930.jpg)
-
+<img src="https://user-images.githubusercontent.com/101245685/167261154-3f4ea27c-52e2-4e30-8f4a-3cde79714930.jpg" width="700" height="370">
 
 
 <!--
