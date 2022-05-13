@@ -4,6 +4,10 @@
 =============
 </div>
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/101245685/167261154-3f4ea27c-52e2-4e30-8f4a-3cde79714930.jpg" width="600" height="300">
+</div>
+
   ```
 Welcome to my page!
 
@@ -15,10 +19,6 @@ Hope you also look forward to it.
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
  
  <br/>
-
-
-<img src="https://user-images.githubusercontent.com/101245685/167261154-3f4ea27c-52e2-4e30-8f4a-3cde79714930.jpg" width="700" height="370">
-
 
 <!--
 **applepops/applepops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
