@@ -13,7 +13,7 @@
   ```
 Welcome to my page!
 
-I'm Jihee, DOUBLE majoring in Korean Language and Literature AND Software Engineering in Sungkyunkwan University.
+I'm Jihee, DOUBLE majoring in Korean Linguistic and Software Engineering in Sungkyunkwan University.
   ```
   
  
