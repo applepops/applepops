@@ -1,35 +1,18 @@
-<div align="center">
-  
-✨Hello World✨
-=============
-</div>
+# 👋 Hello, I'm Jihee!
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/101245685/167261154-3f4ea27c-52e2-4e30-8f4a-3cde79714930.jpg" width="500">
-</div>
+**Software Engineer @ Samsung Electronics**
 
-<br/>
+I'm a graduate of **Sungkyunkwan University**, where I double majored in **Korean Language and Literature** and **Software Engineering**.
 
-  ```
-Welcome to my page!
+With an interdisciplinary background in language and technology, I'm interested in building meaningful software and exploring how AI can enhance human-computer interaction.
 
-I'm Jihee, DOUBLE majoring in Korean Linguistic and Software Engineering in Sungkyunkwan University.
-  ```
-  
- 
- <br/>
+### 💻 About Me
 
-<!--
-**applepops/applepops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.S. background in Korean Language and Literature & Software Engineering
+- 🏢 Software Engineer at Samsung Electronics
+- 🤖 Interested in AI, NLP, and LLM-based applications
+- 🌱 Always learning and exploring new technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building, learning, and growing one commit at a time.* ✨
