@@ -4,7 +4,7 @@
 
 I'm a graduate of **Sungkyunkwan University**, where I double majored in **Korean Language and Literature** and **Software Engineering**.
 
-With an interdisciplinary background in language and technology, I'm interested in building meaningful software and exploring how AI can enhance human-computer interaction.
+With an interdisciplinary background in language and technology,<br> I'm interested in building meaningful software and exploring how AI can enhance human-computer interaction.
 
 ### 💻 About Me
 
