@@ -13,5 +13,12 @@ With an interdisciplinary background in language and technology,<br> I'm interes
 - 🤖 Interested in AI, NLP, and LLM-based applications
 - 🌱 Always learning and exploring new technologies
 
+<br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{applepops}"/>
+</a>
+
+
 -----------------
 *“Learning without thought is labor lost, thought without learning is perilous”*
