@@ -16,13 +16,13 @@ With an interdisciplinary background in language and technology,<br> I'm interes
 <br>
 
 <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/911532991319593351/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+  <img
+    src="https://render.gitanimals.org/guilds/911532991319593351/draw"
+    width="600"
+    height="300"
+    alt="gitanimals guild"
+  />
+</a>
 
 
 -----------------
