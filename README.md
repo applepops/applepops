@@ -12,3 +12,6 @@ With an interdisciplinary background in language and technology,<br> I'm interes
 - 🏢 Software Engineer at Samsung Electronics
 - 🤖 Interested in AI, NLP, and LLM-based applications
 - 🌱 Always learning and exploring new technologies
+
+-----------------
+*“Learning without thought is labor lost, thought without learning is perilous”*
