@@ -15,8 +15,12 @@ With an interdisciplinary background in language and technology,<br> I'm interes
 
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{applepops}"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=applepops&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/applepops"
+  width="600"
+  height="300"
+/>
 </a>
 
 
